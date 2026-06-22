@@ -1,0 +1,38 @@
+# TripNesia AI
+
+AI Travel Planner for Indonesia.
+
+TripNesia AI helps travelers discover and plan trips across Indonesia using simple itinerary planning tools.
+
+## Destinations
+
+- Bali
+- Yogyakarta
+- Belitung
+
+## Features
+
+- AI-style trip planner
+- Travel destination guides
+- Mobile-friendly design
+- Fast static website
+- SEO-ready structure
+
+## Live Website
+
+https://hg6129982-lang.github.io/tripnesia-ai/
+
+## Contact
+
+hellotripnesia.ai@gmail.com
+
+## Built With
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
+
+## License
+
+© 2026 TripNesia AI
